@@ -1,0 +1,24 @@
+.resepi-container{
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+}
+.resepi__image{
+    width: 70%;
+    
+}
+
+.resepi__image img{
+    width: 100%;
+    border-radius: 20px;
+    object-fit: cover;
+}
+.info__title{
+  
+    font-size: 3rem;
+}
+.resepi__info p{
+    font-size: 2rem;
+    padding: 10px 0;
+}
+

@@ -1,0 +1,37 @@
+
+
+.about__detail{
+    text-align: center;
+    padding: 20px;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-30%);
+    width: 80%;
+    background-color: #cccccc65;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0,0, 0.5);
+
+}
+
+.about__title{
+    font-size: 5rem;
+}
+.about__text{
+    font-size: 2rem;
+    width: 100%;
+    margin: 0 auto;
+    line-height: 1.9;
+}
+.about__image{
+    width: 100%;
+    height: 800px;
+}
+
+.about__image img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: relative;
+}
+
