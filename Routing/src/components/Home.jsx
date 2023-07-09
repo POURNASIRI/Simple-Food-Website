@@ -1,5 +1,5 @@
 import React from 'react'
-import img from "./image/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3BmLXM5OS1tbi1hY2FpLXNtb290aGllLWJvd2wtaW4tY29jb251dC13aXRoLXN0cmF3YmVycmllcy1ibHVlYmVycmllcy1ncmFub2xhLXNocmVkZGVkLWNvY29udXQtY2hpYS1zZWVkcy1hbmQtZWRpYmxlLWZsb3dlcnMtMTBfMi5qcGc.webp"
+import img from "./image/Most_Healthy_Food_Choices_for_Daily_Consumption_1980x.webp"
 import './Home.css'
 import { Link } from 'react-router-dom'
 
